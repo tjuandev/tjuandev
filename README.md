@@ -1,4 +1,4 @@
-#Thiago Juan
+<h1>Thiago Juan</h1>
 
 <h2 align="center">About me</h2>
 
@@ -16,7 +16,7 @@ function GetBio() {
         "Python3"
       ],
       currentWork: "Projeto de FlashCards com React e Firebase para melhorar a vida de estudantes",
-      wantToColaborateOn: "Projetos Front-End com React e JavaScript",
+      wantToColaborateOn: "Projetos JavaScript, React e NodeJS",
       lookingForHelpWith: "Uso de Javascript na Web",
     }
   )
