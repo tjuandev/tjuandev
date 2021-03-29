@@ -16,7 +16,7 @@ function GetBio() {
         "Firestore",
         "Python3"
       ],
-      currentWork: "Projeto de FlashCards com React e Firebase para melhorar a vida de estudantes",
+      currentWork: "Projeto de FlashCards com Next e Firebase para melhorar a vida de estudantes",
       wantToColaborateOn: "Projetos JavaScript, React e NodeJS",
       lookingForHelpWith: "Uso de Javascript na Web",
     }
