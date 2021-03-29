@@ -1,6 +1,6 @@
 <h1>Thiago Juan</h1>
 
-<h2 align="center">About me</h2>
+<h2>About me</h2>
 
 ```javascript
 function GetBio() {
