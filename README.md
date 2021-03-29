@@ -9,6 +9,7 @@ function GetBio() {
       resume: "Olá, sou Thiago Juan, programador ReactJS e um grande sonhador.",
       technologiesIKnow: [
         "Javascript",
+        "NextJS",
         "ReactJS",
         "MongoDB",
         "NodeJS",
