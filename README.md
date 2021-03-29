@@ -38,11 +38,11 @@ function GetBio() {
 
 <h4>Top langs :tongue:</h4>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoJuanDEV&langs_count=10&theme=dracula&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoJuanDEV&langs_count=10&theme=radical&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 <h4>Profile stats :musical_keyboard:</h4>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=ThiagoJuanDEV&show_icons=true&theme=dracula" alt="AnhellO :: Profile Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ThiagoJuanDEV&show_icons=true&theme=radical" alt="AnhellO :: Profile Stats" /></p>
 ---
 
 ⭐️ From [@ThiagoJuan](https://github.com/ThiagoJuanDEV)
