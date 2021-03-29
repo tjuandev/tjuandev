@@ -6,7 +6,18 @@
 function GetBio() {
   return (
     {
-      resume: "Olá, sou Thiago Juan, programador ReactJS que possui uma ponta mergulhada em NodeJS e MongoDB. Tenho         17 anos e grandes sonhos pela frente, sou super apaixonado pela área e toda essa diversidade de coisas que ela me possibilita criar, estou sempre em aprendizado constante, é o que me move."
+      resume: "Olá, sou Thiago Juan, programador ReactJS e um grande sonhador.",
+      technologiesIKnow: [
+        "Javascript",
+        "ReactJS",
+        "MongoDB",
+        "NodeJS",
+        "Firestore",
+        "Python3"
+      ],
+      currentWork: "Projeto de FlashCards com React e Firebase para melhorar a vida de estudantes",
+      wantToColaborateOn: "Projetos Front-End com React e JavaScript",
+      lookingForHelpWith: "Uso de Javascript na Web",
     }
   )
 ```
