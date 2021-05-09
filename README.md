@@ -12,6 +12,7 @@ function GetBio() {
         "ReactJS",
         "MongoDB",
         "NodeJS",
+        "FirestoreDB",
       ],
       currentWork: "Projeto de FlashCards com Next e Firebase para melhorar a vida de estudantes",
       wantToColaborateOn: "Projetos JavaScript, React e NodeJS",
