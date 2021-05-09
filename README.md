@@ -8,13 +8,10 @@ function GetBio() {
     {
       resume: "Olá, sou Thiago Juan, programador ReactJS e um grande sonhador.",
       technologiesIKnow: [
-        "Javascript",
         "NextJS",
         "ReactJS",
         "MongoDB",
         "NodeJS",
-        "Firestore",
-        "Python3"
       ],
       currentWork: "Projeto de FlashCards com Next e Firebase para melhorar a vida de estudantes",
       wantToColaborateOn: "Projetos JavaScript, React e NodeJS",
