@@ -35,10 +35,6 @@ function GetBio() {
 
 <h2>Github stats :bar_chart:</h2>
 
-<h4>Top langs:</h4>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoJuanDEV&langs_count=10&theme=merko&layout=compact" alt="Thiago Juan :: Top Langs" /></p>
-
 <h4>Profile stats: :musical_keyboard:</h4>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=ThiagoJuanDEV&show_icons=true&theme=merko" alt="Thiago Juan :: Profile Stats" /></p>
