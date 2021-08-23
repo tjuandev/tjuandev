@@ -22,6 +22,7 @@ function GetBio() {
 ```
 
 <h2>You can reach me at:</h2>
+<p>
   <a href="https://www.linkedin.com/in/thiago-juan-4725771b4/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Thiago Juan's LinkedIn Profile" height="30" width="30">
   </a
@@ -29,5 +30,6 @@ function GetBio() {
   <a href="https://www.instagram.com/tjuan.dev/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Thiago Juan's Instagram Profile" height="30" width="30">
   </a>
+</p>
 
 ⭐️ From [@ThiagoJuan](https://github.com/ThiagoJuanDEV)
