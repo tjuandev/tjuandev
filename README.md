@@ -27,4 +27,3 @@ function GetBio() {
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Thiago Juan's Instagram Profile" height="30" width="30">
   </a>
 </p>
-``
