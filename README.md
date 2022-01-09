@@ -17,7 +17,8 @@ function GetBio() {
       lookingForHelpWith: "Uso de Javascript na Web",
     }
   )
-``
+```
+
 <p>
   <a href="https://www.linkedin.com/in/thiago-juan-4725771b4/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Thiago Juan's LinkedIn Profile" height="30" width="30">
