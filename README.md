@@ -2,7 +2,7 @@
 
 ⚛️ ReactJS Developer
 
-[![Twitter Badge](https://img.shields.io/badge/-@ThiagoDevelope3-00C2FF?style=flat-square&labelColor=0090BC&logo=twitter&logoColor=white&link=https://twitter.com/ThiagoDevelope3)](https://twitter.com/ThiagoDevelope3)
+[![Twitter Badge](https://img.shields.io/badge/-@ThiagoDevelope3-00C2FF?style=flat-square&labelColor=0090BC&logo=twitter&logoColor=white&link=https://twitter.com/tjuandev)](https://twitter.com/tjuandev)
 [![Instagram Badge](https://img.shields.io/badge/-@tjuan.dev-00C2FF?style=flat-square&labelColor=0090BC&logo=instagram&logoColor=white&link=https://www.instagram.com/tjuan.dev/)](https://www.instagram.com/tjuan.dev/) 
 [![LinkedIn Badge](https://img.shields.io/badge/-ThiagoJuan-00C2FF?style=flat-square&labelColor=0090BC&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-juan/)](https://www.linkedin.com/in/thiago-juan/) 
 
