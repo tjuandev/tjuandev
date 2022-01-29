@@ -1,30 +1,9 @@
-<h1>Thiago Juan</h1>
+# Thiago Juan
 
-```javascript
-function GetBio() {
-  return (
-    {
-      resume: "Olá, sou Thiago Juan, programador ReactJS e um grande sonhador.",
-      technologiesIKnow: [
-        "NextJS",
-        "ReactJS",
-        "MongoDB",
-        "NodeJS",
-        "FirestoreDB",
-      ],
-      currentWork: "Projeto de FlashCards com NextJS para melhorar a vida de estudantes",
-      wantToColaborateOn: "Projetos JavaScript, React e NodeJS",
-      lookingForHelpWith: "Uso de Javascript na Web",
-    }
-  )
-```
+⚛️ ReactJS Developer
 
-<p>
-  <a href="https://www.linkedin.com/in/thiago-juan-4725771b4/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Thiago Juan's LinkedIn Profile" height="30" width="30">
-  </a
+❤️ Web development's lover.
 
-  <a href="https://www.instagram.com/tjuan.dev/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Thiago Juan's Instagram Profile" height="30" width="30">
-  </a>
-</p>
+🧍 I have 2 years of experience, and i started my learning at 15 years old and it was like love at the first sight, the goal that makes me more motivated is to help people through the code. Here in my Github you gonna find various projects that contribute with this goals, feel free to collaborate. 🚀
+
+📖 I'm currently getting deeper in React JS and NodeJS studies, and i have future intesterings in App Development.
