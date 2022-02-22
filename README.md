@@ -1,6 +1,6 @@
 # Thiago Juan
 
-<img src="https://64.media.tumblr.com/ee5169a677d71323105a5210404f474d/tumblr_ptp22tbWHk1tgo74ho1_1280.gifv" alt="pinguim" width="150"/>
+<img src="https://64.media.tumblr.com/ee5169a677d71323105a5210404f474d/tumblr_ptp22tbWHk1tgo74ho1_1280.gifv" alt="pinguim" width="300"/>
 
 ⚛️ ReactJS Developer
 
