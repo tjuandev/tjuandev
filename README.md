@@ -1,6 +1,6 @@
 # Thiago Juan
 
-<img src="https://media0.giphy.com/media/8l98VVUTKPhbG/giphy.gif?cid=ecf05e478lnz7mpy9i3xkvjlymgeept8xw1n6weumb2jhv3r&rid=giphy.gif&ct=g" alt="pinguim" width="300"/>
+<img src="https://media0.giphy.com/media/8l98VVUTKPhbG/giphy.gif?cid=ecf05e478lnz7mpy9i3xkvjlymgeept8xw1n6weumb2jhv3r&rid=giphy.gif&ct=g" alt="kitten" width="200"/>
 
 ## ⚛️ ReactJS Developer
 
