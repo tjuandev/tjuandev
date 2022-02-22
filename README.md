@@ -1,5 +1,7 @@
 # Thiago Juan
 
+![pinguim-hora-da-aventura](https://64.media.tumblr.com/83f2b14778f3cb69ddb3a3678ffd781b/tumblr_mysf88vfI11t87608o1_500.gif)
+
 ⚛️ ReactJS Developer
 
 [![Twitter Badge](https://img.shields.io/badge/-@tjuandev-00C2FF?style=flat-square&labelColor=0090BC&logo=twitter&logoColor=white&link=https://twitter.com/tjuandev)](https://twitter.com/tjuandev)
