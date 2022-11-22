@@ -1,6 +1,6 @@
 # Hello 🖖
 
-<img src="https://art.pixilart.com/caa716bcfa83c45.gif" alt="kitten"/>
+<img src="https://art.pixilart.com/caa716bcfa83c45.gif" alt="kitten" width="500"/>
 
 <h4>My name is Thiago Juan</h4>
 
