@@ -2,13 +2,15 @@
 
 <img src="https://media0.giphy.com/media/8l98VVUTKPhbG/giphy.gif?cid=ecf05e478lnz7mpy9i3xkvjlymgeept8xw1n6weumb2jhv3r&rid=giphy.gif&ct=g" alt="kitten" width="200"/>
 
-<h5>My name is Thiago Juan</h5>
+<h4>My name is Thiago Juan</h4>
 
 <h4>I'm a Front-End Engineer</h4>
 
 <h4>🛠️ I’m currently Working on: A financial dashboard.</h4>
 
 <h4>📅 I’m currently learning: TDD with Jest and Cypress for Front-End</h4>
+
+<h4>🧭 Where to find me:</h4>
 
 [![Twitter Badge](https://img.shields.io/badge/-@tjuandev-00C2FF?style=flat-square&labelColor=0090BC&logo=twitter&logoColor=white&link=https://twitter.com/tjuandev)](https://twitter.com/tjuandev)
 [![Instagram Badge](https://img.shields.io/badge/-@tjuan.dev-00C2FF?style=flat-square&labelColor=0090BC&logo=instagram&logoColor=white&link=https://www.instagram.com/tjuan.dev/)](https://www.instagram.com/tjuan.dev/) 
