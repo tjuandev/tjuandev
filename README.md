@@ -8,7 +8,7 @@
 
 🧍  I have 1 year and a half as a software engineer, started my learning at 15 years old, and it was like love at the first sight. The thing that makes me more motivated is to help people through the code, i have some projects on education and currently i'm working with renewable energy making the world more clean. Here in my GitHub you're going to find various projects that contribute with this reason, feel free to collaborate. 🚀
 
-<h4>🛠️ I’m currently Working on: A financial dashboard.</h4>
+<h4>🛠️ I’m currently Working on my personal project: Financial Dashboard.</h4>
 
 <h4>📅 I’m currently learning: TDD with Jest and Cypress for Front-End</h4>
 
