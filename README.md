@@ -42,5 +42,5 @@
 
 ## 📫 How to reach me
 
-- Email: [thiagojuanlira@gmail.com](mailto:thiagojuanlira@gmail.com)
-- LinkedIn: [Thiago Juan](https://www.linkedin.com/in/thiago-juan/)
+- [Email](mailto:thiagojuanlira@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/thiago-juan/)
