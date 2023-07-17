@@ -1,14 +1,12 @@
-# Olá, meu nome é Thiago Juan! 👋
+# Hello, my name is Thiago Juan! 👋
 
 <img align="right" src="https://komarev.com/ghpvc/?username=tjuandev&label=Profile%20views&color=0e75b6&style=flat" alt="tjuandev" />
 
-- 👨‍💻 Sou um engenheiro de software dedicado, com foco no desenvolvimento de Front End.
-- 💻 Programação é a minha paixão e considero não apenas uma carreira, mas também um hobby.
-- 📚 Estou comprometido em estruturar projetos de alta qualidade que estejam em conformidade estrita com as melhores práticas da indústria.
+- 👨‍💻 I'm a dedicated software engineer, with a focus on Front End development.
+- 💻 Programming is my passion and I consider it not just a career, but also a hobby.
+- 📚 I'm committed to structuring high-quality projects that strictly comply with the best industry practices.
 
-🏆 **Conquista:** Uma conquista chave minha no trabalho recentemente foi melhorar o desempenho de uma aplicação frontend em 95%. Essa melhoria aprimorou significativamente a experiência do usuário (UX) e era considerada um desafio muito grande para ser superado. Essa otimização aumentou consideravelmente a eficiência de nosso fluxo de trabalho e tem sido vital para otimizar nossas operações.
-
-⌛ **Experiência profissional:** Minha experiência profissional gira em torno de Web Front-End (Foco principal) e Back-End.
+⌛ **Professional Experience:** My professional experience revolves around Web Front-End as my main focus and Back-End.
 
 ## Tech Stack
 
@@ -35,18 +33,7 @@
 ![FaunaDB](https://img.shields.io/badge/-FaunaDB-663399?style=flat-square&logo=faunadb&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-## 🌐 Idiomas
-
-- Português: Nativo
-- Inglês: Avançado
-
-## 📫 Como entrar em contato
+## 📫 How to reach me
 
 - Email: [thiagojuanlira@gmail.com](mailto:thiagojuanlira@gmail.com)
 - LinkedIn: [Thiago Juan](https://www.linkedin.com/in/thiago-juan/)
-
-## 📽️ Portfólio
-
-- Github: [tjuandev](https://github.com/tjuandev)
-- Dribbble: [AthosBrz](https://dribbble.com/AthosBrz)
-
