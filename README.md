@@ -1,6 +1,6 @@
 # Hello, my name is Thiago Juan! 👋
 
-![image](https://github.com/tjuandev/tjuandev/assets/67200208/da11e24e-5d13-43a5-b70e-53497ec7aaa8)
+![image](https://github.com/tjuandev/tjuandev/assets/67200208/279502b0-b9c5-482c-81a1-8fa11f74196e)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=tjuandev&label=Profile%20views&color=0e75b6&style=flat" alt="tjuandev" />
 
