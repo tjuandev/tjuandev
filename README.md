@@ -1,21 +1,52 @@
-# Hello 🖖
+# Olá, meu nome é Thiago Juan! 👋
 
-<img src="https://art.pixilart.com/caa716bcfa83c45.gif" alt="kitten" width="500"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=tjuandev&label=Profile%20views&color=0e75b6&style=flat" alt="tjuandev" />
 
-<h4>My name is Thiago Juan</h4>
+- 👨‍💻 Sou um engenheiro de software dedicado, com foco no desenvolvimento de Front End.
+- 💻 Programação é a minha paixão e considero não apenas uma carreira, mas também um hobby.
+- 📚 Estou comprometido em estruturar projetos de alta qualidade que estejam em conformidade estrita com as melhores práticas da indústria.
 
-<h4>I'm a Front-End Engineer</h4>
+🏆 **Conquista:** Uma conquista chave minha no trabalho recentemente foi melhorar o desempenho de uma aplicação frontend em 95%. Essa melhoria aprimorou significativamente a experiência do usuário (UX) e era considerada um desafio muito grande para ser superado. Essa otimização aumentou consideravelmente a eficiência de nosso fluxo de trabalho e tem sido vital para otimizar nossas operações.
 
-🧍  I started my learning at 15 years old, and it was like love at the first sight. The thing that makes me more motivated is to help people through the code, i have some projects on education and currently i'm working with renewable energy making the world more clean. Here in my GitHub you're going to find various projects that contribute with this reason, feel free to collaborate. 🚀
+⌛ **Experiência profissional:** Minha experiência profissional gira em torno de Web Front-End (Foco principal) e Back-End.
 
-<h4>🛠️ I’m currently Working on my personal project: Financial Dashboard.</h4>
+## Tech Stack
 
-<h4>📅 I’m currently learning: TDD with Jest and Cypress for Front-End</h4>
+### Front-End
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![JEST](https://img.shields.io/badge/-JEST-C21325?style=flat-square&logo=jest&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-<h4>🧭 Where to find me:</h4>
+### Back-End
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-181818?style=flat-square&logo=supabase&logoColor=white)
+![FaunaDB](https://img.shields.io/badge/-FaunaDB-663399?style=flat-square&logo=faunadb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-[![Twitter Badge](https://img.shields.io/badge/-@tjuandev-00C2FF?style=flat-square&labelColor=0090BC&logo=twitter&logoColor=white&link=https://twitter.com/tjuandev)](https://twitter.com/tjuandev)
-[![Instagram Badge](https://img.shields.io/badge/-@tjuan.dev-00C2FF?style=flat-square&labelColor=0090BC&logo=instagram&logoColor=white&link=https://www.instagram.com/tjuan.dev/)](https://www.instagram.com/tjuan.dev/) 
-[![LinkedIn Badge](https://img.shields.io/badge/-ThiagoJuan-00C2FF?style=flat-square&labelColor=0090BC&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-juan/)](https://www.linkedin.com/in/thiago-juan/) 
+## 🌐 Idiomas
 
+- Português: Nativo
+- Inglês: Avançado
+
+## 📫 Como entrar em contato
+
+- Email: [thiagojuanlira@gmail.com](mailto:thiagojuanlira@gmail.com)
+- LinkedIn: [Thiago Juan](https://www.linkedin.com/in/thiago-juan/)
+
+## 📽️ Portfólio
+
+- Github: [tjuandev](https://github.com/tjuandev)
+- Dribbble: [AthosBrz](https://dribbble.com/AthosBrz)
 
