@@ -38,7 +38,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-![FaunaDB](https://img.shields.io/badge/-FaunaDB-663399?style=for-the-badge&logo=faunadb&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📫 How to reach me
