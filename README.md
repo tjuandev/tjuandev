@@ -1,5 +1,7 @@
 # Hello, my name is Thiago Juan! 👋
 
+![image](https://github.com/tjuandev/tjuandev/assets/67200208/da11e24e-5d13-43a5-b70e-53497ec7aaa8)
+
 <img align="right" src="https://komarev.com/ghpvc/?username=tjuandev&label=Profile%20views&color=0e75b6&style=flat" alt="tjuandev" />
 
 - 👨‍💻 I'm a dedicated software engineer, with a focus on Front End development.
