@@ -4,7 +4,7 @@
 
 # Hello, my name is Thiago Juan! 👋
 
-<img align="right" src="https://komarev.com/ghpvc/?username=tjuandev&label=Profile%20views&color=#ffbf00&style=for-the-badge" alt="tjuandev" />
+<img align="right" src="https://komarev.com/ghpvc/?username=tjuandev&label=Profile%20views&color=ffbf00&style=for-the-badge" alt="tjuandev" />
 
 - 👨‍💻 I'm a dedicated software engineer, with a focus on Front End development.
 - 💻 Programming is my passion and I consider it not just a career, but also a hobby.
