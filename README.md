@@ -43,7 +43,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=postgresql&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/-PostgreSQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📫 How to reach me
 
